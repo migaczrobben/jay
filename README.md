@@ -7,9 +7,12 @@ Simple software to back up projects from the command line
     chmod +x jay
     sudo mv jay /bin/jay
     
-_Optional; can run without root access by providing path and/or program (e.g. python ~/Programs/jay [command])_
+_Optional; can run without root access by providing path and/or program (e.g. python ~/Programs/jay)_
 
 ### Use
+
+    jay
+_Display possible arguments_
 
     jay create
     jay c
